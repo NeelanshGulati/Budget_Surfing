@@ -1,11 +1,3 @@
-# Budget_Surfing
-Application that manages your entire trip.
-
-## Technologies Used
-
-- Backend : SpringBoot
-- Frontend : React
-
 ## Overview
 
 The project is all about the finding the trip as traveler and accepting the trip as host
@@ -32,6 +24,11 @@ We are sending the mail on exceeding budget of traveler, signup confirmation and
 acceptance of request by host to notify the user with updated information in their
 account.
 
+## Technologies Used
+
+- Backend : SpringBoot
+- Frontend : React
+
 ## Features
 
 - User Registration, Account verification through OTP sent on registered email, Login Module.
@@ -57,7 +54,7 @@ account.
 - Email notification module
 
 ## Contributors
-- Neelansh Gulati : neelanshgulati100@gmail.com/nl429326@dal.ca.
+- Neelansh Gulati : neelanshgulati100@gmail.com / nl429326@dal.ca.
 - Parth Gondaliya : pr963683@dal.ca.
 - Hardee : hardee.garala@dal.ca.
 - Taun Hamid : tn220771@dal.ca.
